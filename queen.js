@@ -1,35 +1,30 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                   𝗤𝗨𝗘𝗘𝗡-𝗔𝗡𝗝𝗨 𝗫ᴾᴿᴼ 𝐁𝐎𝐓                                               //
+//                                   𝗔𝗞𝗜_𝗠𝗗 𝗫ᴾᴿᴼ 𝐁𝐎𝐓                                               //
 //                                                                                                      //
-//                                         Ｖ：4.0                                                       //
+//                                         Ｖ：1.0                                                       //
 //
 //
-//░██████╗░██╗░░░██╗███████╗███████╗███╗░░██╗  ░█████╗░███╗░░██╗░░░░░██╗██╗░░░██╗  ██╗░░██╗██████╗░██████╗░░█████╗░
-//██╔═══██╗██║░░░██║██╔════╝██╔════╝████╗░██║  ██╔══██╗████╗░██║░░░░░██║██║░░░██║  ╚██╗██╔╝██╔══██╗██╔══██╗██╔══██╗
-//██║██╗██║██║░░░██║█████╗░░█████╗░░██╔██╗██║  ███████║██╔██╗██║░░░░░██║██║░░░██║  ░╚███╔╝░██████╔╝██████╔╝██║░░██║
-//╚██████╔╝██║░░░██║██╔══╝░░██╔══╝░░██║╚████║  ██╔══██║██║╚████║██╗░░██║██║░░░██║  ░██╔██╗░██╔═══╝░██╔══██╗██║░░██║
-//░╚═██╔═╝░╚██████╔╝███████╗███████╗██║░╚███║  ██║░░██║██║░╚███║╚█████╔╝╚██████╔╝  ██╔╝╚██╗██║░░░░░██║░░██║╚█████╔╝
-//░░░╚═╝░░░░╚═════╝░╚══════╝╚══════╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚═╝░░╚══╝░╚════╝░░╚═════╝░  ╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝░╚════╝░
+//
 //
 //
 //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
-//  * @version      : 4.0
-//  * @author       : Janith Rashmika
-//  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
+//  * @project_name : ©𝗔𝗞𝗜 𝗠𝗗 𝗑ᴾᴿᴼ
+//  * @version      : 1.0
+//  * @author       : akila udara
+//  * @youtube      : https://youtube.com/@aki_780?si=QKLbzZLv5KUCUThi
+//  * @description  : © 𝗔𝗞𝗜 𝗠𝗗 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Akila udara.
 //*
 //*
-//Base by Janith Rashmika
-//GitHub: @Mrrashmika
-//WhatsApp: +94717775628
-//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
-//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
+//Base by akila udara
+//GitHub: @akimdbot
+//WhatsApp: +94728356328
+//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@aki_780?si=QKLbzZLv5KUCUThi
+//   * Created By GitHub: akimdbot
+//   * Credit To akila udara
+//   * © 2025 © 𝗔𝗞𝗜 𝗠𝗗 𝗑ᴾᴿᴼ-V1.
 // ⛥┌┤
 // */
 
